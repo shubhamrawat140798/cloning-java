@@ -1,4 +1,4 @@
-# clonning-java
+# cloning-java
 
 Object cloning in java using cloneable and copy constructor both.
 
